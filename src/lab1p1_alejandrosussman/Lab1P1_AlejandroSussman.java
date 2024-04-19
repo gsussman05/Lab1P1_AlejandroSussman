@@ -18,7 +18,7 @@ public class Lab1P1_AlejandroSussman {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        System.out.println("BINEVENIDO A LA CALCULADORA DE PROMEDIOS");
+        System.out.println("---BINEVENIDO A LA CALCULADORA DE NOTA PROMEDIO---");
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese su nombre: ");
         String name = sc.nextLine();
